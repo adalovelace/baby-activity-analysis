@@ -1,6 +1,6 @@
 # Analysis of baby activity data
 
-This repository includes an analysis of our baby's sleep activity data in his first 6 months.
+This repository includes an analysis of our baby's sleep activity data in his first 6 months. You can find an article describing this analysis in [Medium](https://medium.com/@sandrewge/tales-from-the-c%CC%B5r%CC%B5y%CC%B5p%CC%B5t%CC%B5-crib-7adf5537fd44).
 
 ## Data Collection
 
